@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf41e9e7da7496741a291cb4690ad27e, type: 3}
+  m_Name: Gem_Pink
+  m_EditorClassIdentifier: 
+  <GemName>k__BackingField: Pink Gem
+  <GemBasePrice>k__BackingField: 150
+  <GemSprite>k__BackingField: {fileID: 21300000, guid: d6f238467c2d29245844fe3bcdb374e1, type: 3}
+  <GemMesh>k__BackingField: {fileID: -4577554125874261984, guid: aa50f5391d6380145abf5466a44fa040, type: 3}
+  <GemMaterial>k__BackingField: {fileID: 6271573414225017425, guid: aa50f5391d6380145abf5466a44fa040, type: 3}
